@@ -33,6 +33,7 @@ h1 {
   width: 70vw;
   min-height: 100vh;
   margin: auto;
+  background-color: pink;
   display: flex;
   justify-content: center;
   flex-direction: column;
