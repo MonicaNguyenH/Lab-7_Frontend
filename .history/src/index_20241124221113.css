@@ -60,8 +60,8 @@ select {
   appearance: none; /* Remove default dropdown arrow */
   -webkit-appearance: none; /* Safari support */
   -moz-appearance: none; /* Firefox support */
-  background-color: grey; /* Background color */
-  border: 2px solid black; /* Border color */
+  background-color: rgb(248, 158, 173); /* Background color */
+  border: 2px solid #815863; /* Border color */
   border-radius: 20px; /* Rounded corners */
   padding: 5px; /* Padding inside the dropdown */
   font-size: 16px; /* Font size */
